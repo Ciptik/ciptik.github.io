@@ -4,6 +4,12 @@
 
 This library provides a simple way to interact with a GPT-based chat API. It allows you to create multiple chat instances and send messages to them.
 
+## Demo page
+
+To showcase the usage of this library, you can visit our demo page:
+
+[Live Demo](https://ciptik.github.io/index.html)
+
 ### Installation
 
 To use this library in your project, include the following script tag in your HTML file:
